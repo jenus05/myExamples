@@ -1,0 +1,16 @@
+POST = {
+  "name": "PPV 72 hours 5 credits",
+  "type": "PPV",
+  "rental_window_length": "PT72H",
+  "external_id": "PPV_72hours_5credits",
+  "brief_description": "This is test"
+}
+PUT = {
+  "name": "PPV 72 hours 5 credits",
+  "type": "PPV",
+  "rental_window_length": "PT72H",
+  "external_id": "PPV_72hours_5credits",
+  "brief_description": "This is test",
+  "type_label":"PPV",
+  "initialName":"PPV 72 hours 5 credits"
+}

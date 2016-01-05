@@ -1,0 +1,6 @@
+methods = {
+'create' : 'POST',
+'read' : 'GET',
+'update' : 'PUT',
+'delete' : 'DELETE'
+};

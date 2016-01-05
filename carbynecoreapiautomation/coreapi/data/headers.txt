@@ -1,0 +1,24 @@
+POST = {
+'Content-Type' : 'application/json', 'application/hal+json; charset=UTF-8',
+'Accept': 'application/hal+json',
+'Carbyne-Tenant': 'tenant_1',
+'carbyne-user-id': '1'
+};
+PUT = {
+'Content-Type': 'application/json'
+'accept':'application/json'
+'carbyne-tenant': 'tenant_1'
+'carbyne-user-id': '1'
+};
+GET = {
+'Content-Type': 'application/json'
+'accept':'application/json'
+'carbyne-tenant': 'tenant_1'
+'carbyne-user-id': '1'
+};
+DELETE = {
+'Content-Type': 'application/json'
+'accept':'application/json'
+'carbyne-tenant': 'tenant_1'
+'carbyne-user-id': '1'
+};
